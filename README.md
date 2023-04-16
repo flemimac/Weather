@@ -19,6 +19,6 @@ We turn to the "what_weather" function and find weather information.
 
 ![image](https://user-images.githubusercontent.com/64695348/232311090-e7003c99-3728-4873-b468-373db9a6dad5.png)
 
-We turn to the "what_weather" function and find weather information.
+Обращаемся к функции "what_weather" и находим информацию о погоде.
 
 ![image](https://user-images.githubusercontent.com/64695348/232311404-db86a488-df16-493a-9de8-5821dbe84755.png)
